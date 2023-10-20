@@ -19,10 +19,7 @@ class SessionMemberSeeder extends Seeder
             ['id' => 3, 'session_id' => 2, 'client_id' => 1],
             ['id' => 4, 'session_id' => 2, 'client_id' => 2],
             ['id' => 5, 'session_id' => 3, 'client_id' => 1],
-            ['id' => 6, 'session_id' => 3, 'client_id' => 2],
-            ['id' => 7, 'session_id' => 5, 'client_id' => 1],
-            ['id' => 8, 'session_id' => 7, 'client_id' => 1],
-            ['id' => 9, 'session_id' => 7, 'client_id' => 2],
+            ['id' => 6, 'session_id' => 3, 'client_id' => 2]
         ]);
     }
 }

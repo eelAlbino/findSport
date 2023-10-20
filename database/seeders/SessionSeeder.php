@@ -30,18 +30,6 @@ class SessionSeeder extends Seeder
                 'id' => 4,
                 'start_time' => '2023-08-29 17:00:00',
                 'session_configuration_id' => 2
-            ], [
-                'id' => 5,
-                'start_time' => '2023-08-21 17:00:00',
-                'session_configuration_id' => 1
-            ], [
-                'id' => 6,
-                'start_time' => '2023-08-22 17:00:00',
-                'session_configuration_id' => 2
-            ], [
-                'id' => 7,
-                'start_time' => '2023-08-22 17:00:00',
-                'session_configuration_id' => 2
             ]
         ]);
     }
